@@ -5,13 +5,13 @@
 
 ---
 
-## **Project Overview**
+## 2. **Project Overview**
 
 This interactive Power BI dashboard analyzes multi-year patient waitlist data to help healthcare administrators monitor backlog, understand wait-time distribution, and identify operational bottlenecks across specialties and case types. The report enables data-driven decisions for improving patient flow, prioritization, and resource planning.
 
 ---
 
-## **Tech Stack**
+## 3. **Tech Stack**
 
 * **Power BI Desktop** – Data modeling and interactive visualization
 * **Power Query** – Data cleaning and transformation (ETL)
@@ -20,7 +20,7 @@ This interactive Power BI dashboard analyzes multi-year patient waitlist data to
 
 ---
 
-## **Data Source**
+## 4. **Data Source**
 
 * Hospital waitlist records from **2018 to 2021**
 * Case types: **Outpatient, Day Case, Inpatient**
@@ -29,7 +29,7 @@ This interactive Power BI dashboard analyzes multi-year patient waitlist data to
 
 ---
 
-## **Core Features**
+## 5. **Core Features**
 
 * KPI comparison of **Latest Month Waitlist vs Previous Year**
 * Distribution of patients by **Case Type** using donut visualization
@@ -41,7 +41,7 @@ This interactive Power BI dashboard analyzes multi-year patient waitlist data to
 
 ---
 
-## **Key Business Questions Addressed**
+## 6. **Key Business Questions Addressed**
 
 This dashboard provides answers to important operational questions:
 
@@ -56,9 +56,9 @@ This dashboard provides answers to important operational questions:
 
 ---
 
-## **Business Value**
+## 7. **Business Value**
 
 The dashboard supports healthcare decision-makers in identifying inefficiencies, prioritizing critical cases, and optimizing scheduling strategies. By transforming raw waitlist data into actionable insights, it contributes to improved service levels and better patient experience.
 
-## **Screenshot**
+## 8. **Screenshot**
 show what the dashboard looks like:- https://github.com/Anuragrathod007/Hospital-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png
