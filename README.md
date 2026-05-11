@@ -1,5 +1,5 @@
 # Hospital-Dashboard
-## 1**Project Title**
+## 1. **Project Title**
 
 **Healthcare Patient Waitlist Analytics Dashboard — Power BI**
 
