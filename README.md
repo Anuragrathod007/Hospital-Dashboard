@@ -61,4 +61,4 @@ This dashboard provides answers to important operational questions:
 The dashboard supports healthcare decision-makers in identifying inefficiencies, prioritizing critical cases, and optimizing scheduling strategies. By transforming raw waitlist data into actionable insights, it contributes to improved service levels and better patient experience.
 
 ## **Screenshot**
-show what the dashboard looks like 
+show what the dashboard looks like:- https://github.com/Anuragrathod007/Hospital-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png
